@@ -4,3 +4,5 @@ I am an ecologist and geospatial analyst. I work on the tree communities of shol
 - Google Scholar
 - [LinkedIn](https://www.linkedin.com/in/arundhati-das-98b76b24/)
 - ORCID
+
+![The Western Ghats](https://upload.wikimedia.org/wikipedia/commons/5/54/Satellite_Picture_of_the_Western_Ghats_%26_Indian_West_Coast.png "Western Ghats Mountains")
