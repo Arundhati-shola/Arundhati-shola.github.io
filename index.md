@@ -8,4 +8,4 @@ I am an ecologist and geospatial analyst. I work on the tree communities of shol
 ![Shola Tree](/IMG/SholaTree.JPG "Shola Tree Branches")
 
 # An interactive map of Bangalore
-<embed type="text/html" src="/IMG/cu_map_transparent.html" height="650" width="850">
+<embed type="text/html" src="/IMG/blr_map.html" height="650" width="850">
