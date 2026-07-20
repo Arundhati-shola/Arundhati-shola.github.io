@@ -8,4 +8,4 @@ I am an ecologist and geospatial analyst. I work on the tree communities of shol
 ![Wisdom of the Ancients Cartoon](/IMG/wisdom_of_the_ancients.png "Wisdom of the Ancients; xkcd.com")
 
 # An interactive map
-<embed type="text/html" src="/IMG/cu_map.html" height="650" width="850">
+<embed type="text/html" src="/IMG/cu_map_transparent.html" height="650" width="850">
