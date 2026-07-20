@@ -5,7 +5,7 @@ I am an ecologist and geospatial analyst. I work on the tree communities of shol
 - [LinkedIn](https://www.linkedin.com/in/arundhati-das-98b76b24/)
 - [ORCID](https://orcid.org/0000-0002-3103-5957)
 
-![Wisdom of the Ancients Cartoon](/IMG/wisdom_of_the_ancients.png "Wisdom of the Ancients; xkcd.com")
+![Shola Tree](/IMG/SholaTree.jpg "Shola Tree Branches")
 
 # An interactive map
 <embed type="text/html" src="/IMG/cu_map_transparent.html" height="650" width="850">
